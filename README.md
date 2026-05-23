@@ -18,11 +18,11 @@
 
 - 💻 Skills ...
 
-* Python
-* Algorithmical Problem Solving.
-* HCI
-* CV
-* Software Development & Engineering
-* Mathematics
-* Problem Solving
+   * Python
+   * Algorithmical Problem Solving.
+   * HCI
+   * CV
+   * Software Development & Engineering
+   * Mathematics
+   * Problem Solving
 
