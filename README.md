@@ -5,6 +5,8 @@
     * Algorithms
     * Machine Learning
     * Prompt Engineering
+    * AI Orchestration
+    * Software Development & Engineering
     * Python
     * C++
     * Mathematics
