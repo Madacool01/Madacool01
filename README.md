@@ -1,21 +1,22 @@
 ## Hi there. 👋
 
 - 🌱 I’m currently learning ...
-* Competitive Programming
-* Algorithms
-* Machine Learning
-* Prompt Engineering
-* Python
-* C++
+    * Competitive Programming
+    * Algorithms
+    * Machine Learning
+    * Prompt Engineering
+    * Python
+    * C++
+    * Mathematics
 
 - 🤔 I’m looking for help with ...
-* Programming
-* Python
-* C++
-* Solving real-world Problems!
-* Mathematics
+    * Programming
+    * Python
+    * C++
+    * Solving real-world Problems!
+    * Mathematics
 
-- Skills:
+- 💻 Skills ...
 
 * Python
 * Algorithmical Problem Solving.
