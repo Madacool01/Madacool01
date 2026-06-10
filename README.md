@@ -22,6 +22,9 @@
 - 💻 Skills ...
 
    * Python
+   * C++ STL Library
+   * ML Engineering
+   * MLOps
    * Algorithmical Problem Solving.
    * HCI
    * CV
