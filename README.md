@@ -1,6 +1,7 @@
 ## Hi there. 👋
 
 - 🌱 I’m currently learning ...
+    * Machine Learning Engineering
     * Competitive Programming
     * Algorithms
     * Machine Learning
